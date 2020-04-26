@@ -1,7 +1,7 @@
 # Mechanical keyboard USB adapter
 A second pcb for mechanical keyboard, all kind of usb connector.
 
-![Adapter preview](https://i.imgur.com/LshLS6w.png)
+![Adapter preview](https://i.imgur.com/5n2cbeZ.png)
 
 
 ![Adapter size](https://i.imgur.com/XDYlZcD.jpg)
