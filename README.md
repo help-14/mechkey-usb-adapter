@@ -1,5 +1,5 @@
 # Mechanical keyboard USB adapter
-A second pcb for mechanical keyboard, all kind of usb connector.
+A second pcb for mechanical keyboard, all kind of usb connector. Support handwired or FPC cable.
 
 ![Adapter preview](https://i.imgur.com/5n2cbeZ.png)
 
